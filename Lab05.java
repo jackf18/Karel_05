@@ -42,6 +42,6 @@ public class Lab05 {
    runTheRace(michael);
    runTheRace(tommy);
       
- }
+   }
  
 }  
